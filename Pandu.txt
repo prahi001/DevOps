@@ -1,8 +1,5 @@
 Hello
-
 Hi
 Hello Boss
-
-Remove How are you??This is good
-
-Edited this file
+This is good
+hello
